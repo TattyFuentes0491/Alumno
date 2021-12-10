@@ -1,0 +1,6 @@
+Cédula      Nombre      Nota_1      Nota_2      Nota_3      Nota_Final      ¿Aprobó?      
+1067901889         Tatiana Fuentes V         50.0         50.0         48.0         49.333333333333336         Aprobo         
+1087234567         Camilo Torres         23.0         43.0         12.0         26.0         No Aprobo         
+1089765343         Jaime Avila         45.0         50.0         50.0         48.333333333333336         Aprobo         
+123465678         Damian Quintero         3.0         3.0         2.0         2.6666666666666665         No Aprobo         
+67894536         Jose A Díaz         34.0         35.0         66.0         45.0         No Aprobo         
